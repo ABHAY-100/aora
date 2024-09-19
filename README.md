@@ -1,2 +1,2 @@
-# aora
-my first mobile application
+*aora*
+
